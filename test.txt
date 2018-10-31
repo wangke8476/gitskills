@@ -21,4 +21,6 @@ kwlfpownf
 
 branch  master feature1
 
-branch dev user1
+
+branch dev user1 user2
+
